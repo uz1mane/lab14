@@ -1,0 +1,29 @@
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.Form1.resources
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.csproj.GenerateResource.cache
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\bin\Debug\Lab14.exe.config
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\bin\Debug\Lab14.exe
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\bin\Debug\Lab14.pdb
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.exe
+D:\Никита\Универ\Имитационное моделирование\Lab14\Lab14\obj\Debug\Lab14.pdb
+C:\Users\anast\Desktop\Lab14\Lab14\bin\Debug\Lab14.exe.config
+C:\Users\anast\Desktop\Lab14\Lab14\bin\Debug\Lab14.exe
+C:\Users\anast\Desktop\Lab14\Lab14\bin\Debug\Lab14.pdb
+C:\Users\anast\Desktop\Lab14\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+C:\Users\anast\Desktop\Lab14\Lab14\obj\Debug\Lab14.Form1.resources
+C:\Users\anast\Desktop\Lab14\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+C:\Users\anast\Desktop\Lab14\Lab14\obj\Debug\Lab14.csproj.GenerateResource.cache
+C:\Users\anast\Desktop\Lab14\Lab14\obj\Debug\Lab14.exe
+C:\Users\anast\Desktop\Lab14\Lab14\obj\Debug\Lab14.pdb
+C:\Users\uzimane_\Desktop\slolen\Lab14 (1)\Lab14\Lab14\bin\Debug\Lab14.exe.config
+C:\Users\uzimane_\Desktop\slolen\Lab14 (1)\Lab14\Lab14\bin\Debug\Lab14.exe
+C:\Users\uzimane_\Desktop\slolen\Lab14 (1)\Lab14\Lab14\bin\Debug\Lab14.pdb
+C:\Users\uzimane_\Desktop\slolen\Lab14 (1)\Lab14\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+C:\Users\uzimane_\Desktop\slolen\Lab14 (1)\Lab14\Lab14\obj\Debug\Lab14.Form1.resources
+C:\Users\uzimane_\Desktop\slolen\Lab14 (1)\Lab14\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+C:\Users\uzimane_\Desktop\slolen\Lab14 (1)\Lab14\Lab14\obj\Debug\Lab14.csproj.GenerateResource.cache
+C:\Users\uzimane_\Desktop\slolen\Lab14 (1)\Lab14\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+C:\Users\uzimane_\Desktop\slolen\Lab14 (1)\Lab14\Lab14\obj\Debug\Lab14.exe
+C:\Users\uzimane_\Desktop\slolen\Lab14 (1)\Lab14\Lab14\obj\Debug\Lab14.pdb
